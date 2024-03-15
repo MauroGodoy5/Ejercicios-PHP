@@ -1,0 +1,1 @@
+Ahora bien, si usted quiere generar el tradicional texto de Lorem Ipsum para no distraer al lector con el contenido mientras que mira su diseño, escriba =Lorem() y luego presione Intro. Automáticamente Word creará cinco párrafos del texto de Lorem Ipsum, cada uno con tres oraciones.
